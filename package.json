@@ -1,0 +1,22 @@
+{
+  "name": "03-auto-resizing",
+  "version": "0.1.0",
+  "engines": {
+    "node": "^15.x"
+  },
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "lorem-ipsum": "^1.0.4",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-scripts": "1.1.4",
+    "react-virtualized": "^9.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
